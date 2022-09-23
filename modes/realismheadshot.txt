@@ -7,7 +7,7 @@
 	"ShortDescription"	"Realism Head Shot (realism made by valve)"
 	"Description"	"Realism Head Shot with the realism made by valve"
 
-	"Image"		"maps/any"
+	"Image"		"vgui/realismheadshot"
 	"Author"	"Le0N"
 
 	convar
