@@ -1,11 +1,7 @@
-//-----------------------------------------------------
-Msg("Activating Mutation 2\n");
+printl("Activating Realism Headshot!")
 
-
-DirectorOptions <-
-{
+MutationOptions <- {
 	ActiveChallenge = 1
 
-	cm_HeadshotOnly = 1
+	cm_HeadshotOnly = true
 }
-
