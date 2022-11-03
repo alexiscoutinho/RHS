@@ -2,7 +2,7 @@ AddonInfo
 {
 	addonSteamAppID		550
 	addonTitle			"Realism Headshot!"
-	addonVersion		2.0
+	addonVersion		2.1
 	addonAuthor			"£e0N and Jack Bauer ︻デ▬——"
 	addonAuthorSteamID	djezuz
 	addonURL0			https://steamcommunity.com/sharedfiles/filedetails/1381569546
