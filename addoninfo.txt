@@ -9,7 +9,5 @@ AddonInfo
 	addonContent_Script	1
 	addonDescription	"Headshot! with the Realism made by Valve.
 
-The internal mode name for use in the console is realismheadshot.
-
 Source: https://github.com/alexiscoutinho/RHS"
 }

@@ -7,7 +7,9 @@ realismheadshot
 
 	DisplayTitle		"Realism Headshot!"
 	ShortDescription	"Realism Headshot! (Realism made by Valve)."
-	Description			"Realism Headshot! with the Realism made by Valve."
+	Description			"Realism Headshot! with the Realism made by Valve.
+
+The internal mode name for use in the console is realismheadshot."
 	Author				"£e0N and Jack Bauer ︻デ▬——"
 	Image				vgui/realismheadshot
 }
